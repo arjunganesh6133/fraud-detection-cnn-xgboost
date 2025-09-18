@@ -111,6 +111,7 @@ Used: Online payment transaction from kaggle
 📈 Visuals
 
 Fraud Detection System architecture (CNN+XGboost)
+![alt image](https://github.com/arjunganesh6133/fraud-detection-cnn-xgboost/blob/6b5def875ba552d79c20ad5d4c79ed1a2074ddb7/Screenshot%202025-09-18%20203114.png)
 
 
 
